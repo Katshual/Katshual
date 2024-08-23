@@ -8,7 +8,7 @@
 - 💼 **25 ans d'expérience** dans le secteur bancaire, avec des compétences solides en gestion de projet, résolution de problèmes complexes, et communication.
 - 🎯 **Objectif 2024** : Obtenir une alternance en développement web pour mettre en pratique mes nouvelles compétences.
 - 🌱 **En formation continue** : J'ai acquis des compétences en HTML, CSS, JavaScript, PHP, MySQL, et bien plus encore.
-- 
+
 
 ## 🔧 Compétences Techniques
 
@@ -22,19 +22,16 @@
 
 ## 🚀 Projets Réalisés
 
-### 1. [Puma Game](https://github.com/votre-projet/puma-game)
-- **Langage :** LUA | **Interface :** PICO-8
-- **Description :** Conception d’un jeu pour apprendre la programmation en équipe.
 
-### 2. [Rappel Conso](https://github.com/votre-projet/rappel-conso)
+### 1. [Rappel Conso](https://github.com/votre-projet/rappel-conso)
 - **Technologies :** JavaScript, APIs, Visualisation de données
 - **Description :** Interface graphique pour afficher les rappels de produits de consommation.
 
-### 3. [Enter the Spaceship](https://github.com/votre-projet/enter-the-spaceship)
+### 2. [Enter the Spaceship]
 - **Technologies :** JavaScript, HTML, CSS
 - **Description :** Extension Chrome pour personnaliser la page d’accueil avec des images de la NASA.
 
-### 4. [Réseau Social PHP](https://github.com/votre-projet/reseau-social-php)
+### 3. [Réseau Social PHP]
 - **Technologies :** PHP, MySQL
 - **Description :** Création d’un réseau social avec gestion des utilisateurs et authentification.
 
